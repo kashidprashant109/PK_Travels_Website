@@ -1,2 +1,2 @@
 # PK_Travels_Website
-A stativ Website made using only html
+A static Website made using only html
